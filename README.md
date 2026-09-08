@@ -41,6 +41,7 @@ I am the Head of Quality Control at **DS Multimedia CA**. In my work, I combine 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nrkfo&theme=dark)
 ![GitHub Stats](https://github-readme-stats-rho-livid-78.vercel.app/api?username=nrkfo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats-rho-livid-78.vercel.app/api/top-langs/?username=nrkfo&layout=compact&theme=dark)
+
 [![Latest Release](https://img.shields.io/github/v/release/nrkfo/qms-dsm)](https://github.com/nrkfo/qms-dsm/releases)
 
 ### 📫 How to Reach Me
