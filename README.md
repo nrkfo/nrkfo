@@ -42,8 +42,6 @@ I am the Head of Quality Control at **DS Multimedia CA**. In my work, I combine 
 ![GitHub Stats](https://github-readme-stats-rho-livid-78.vercel.app/api?username=nrkfo&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats-rho-livid-78.vercel.app/api/top-langs/?username=nrkfo&layout=compact&theme=dark)
 
-[![Latest Release](https://img.shields.io/github/v/release/nrkfo/scanpointterminal)](https://github.com/nrkfo/scanpointterminal/releases)
-
 ### 📫 How to Reach Me
 
 - **LinkedIn:** [in/iznm](https://linkedin.com/in/iznm)
