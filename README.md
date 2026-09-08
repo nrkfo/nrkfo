@@ -7,11 +7,27 @@
 * Увлекаюсь 3D-моделированием и печатью для прототипирования и создания нестандартных деталей.
 
 ### 🛠 Мой стек технологий и инструменты
-* **Языки:** Python, TypeScript, JavaScript, Kotlin
-* **Фронтенд и Бэкенд:** React, Node.js
-* **Базы данных и Инфраструктура:** SQLite, Docker, Nginx, Linux (Kubuntu), OpenVPN
-* **Компьютерное зрение & ИИ:** OpenCV, YOLO, Model Context Protocol (MCP)
-* **CAD & 3D:** Blender, FreeCAD, Autodesk Fusion 360
+
+**Языки программирования:**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**Фронтенд и Бэкенд:**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Базы данных и Инфраструктура:**  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Инструменты и ИИ:**  
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-%230696D7.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### 🚀 Текущие проекты
 * `qms-dsm` & `mes_portal` — разработка архитектуры и логики для внутренних систем управления производством.
