@@ -1,16 +1,30 @@
-## Hi there 👋
+# Привет, я Нурболат Изенов (nrkfo) 👋
 
-<!--
-**nrkfo/nrkfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я руководитель отдела контроля качества (Head of Quality Control) в ТОО «DS Multimedia CA». В своей работе я объединяю обеспечение качества на производстве с разработкой программного обеспечения, создавая инструменты для автоматизации и оптимизации процессов.
 
-Here are some ideas to get you started:
+### 👨‍💻 Чем я занимаюсь
+* Разрабатываю внутренние системы управления качеством (QMS) для производства.
+* Увлекаюсь 3D-моделированием и печатью для прототипирования и создания нестандартных деталей.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой стек технологий и инструменты
+* **Языки:** Python, TypeScript, JavaScript, Kotlin
+* **Фронтенд и Бэкенд:** React, Node.js
+* **Базы данных и Инфраструктура:** SQLite, Docker, Nginx, Linux (Kubuntu), OpenVPN
+* **Компьютерное зрение & ИИ:** OpenCV, YOLO, Model Context Protocol (MCP)
+* **CAD & 3D:** Blender, FreeCAD, Autodesk Fusion 360
+
+### 🚀 Текущие проекты
+* `qms-dsm` & `mes_portal` — разработка архитектуры и логики для внутренних систем управления производством.
+* `smartkiosk` — проект на Kotlin.
+* `scanpointterminal` — терминальное решение для рабочих станций.
+
+### 📊 Моя статистика
+[![Статистика GitHub nrkfo](https://github-readme-stats.vercel.app/api?username=nrkfo&show_icons=true&theme=dark)](https://github.com/nrkfo)
+[![Топ языков nrkfo](https://github-readme-stats.vercel.app/api/top-langs/?username=nrkfo&layout=compact&theme=dark)](https://github.com/nrkfo)
+
+### 📫 Как со мной связаться
+- **LinkedIn:** [in/iznm](https://linkedin.com/in/iznm)
+- **Email:** nurik.wayne98@gmail.com
+
+---
+*«Calm, code, and control.» 🐊*
