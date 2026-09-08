@@ -19,8 +19,9 @@
 * `scanpointterminal` — терминальное решение для рабочих станций.
 
 ### 📊 Моя статистика
-[![Статистика GitHub nrkfo](https://github-readme-stats.vercel.app/api?username=nrkfo&show_icons=true&theme=dark)](https://github.com/nrkfo)
-[![Топ языков nrkfo](https://github-readme-stats.vercel.app/api/top-langs/?username=nrkfo&layout=compact&theme=dark)](https://github.com/nrkfo)
+![Статистика GitHub nrkfo](https://github-readme-stats.vercel.app/api?username=nrkfo&show_icons=true&theme=dark)
+
+![Топ языков nrkfo](https://github-readme-stats.vercel.app/api/top-langs/?username=nrkfo&layout=compact&theme=dark)
 
 ### 📫 Как со мной связаться
 - **LinkedIn:** [in/iznm](https://linkedin.com/in/iznm)
