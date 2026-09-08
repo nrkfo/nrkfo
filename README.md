@@ -39,7 +39,7 @@
 
 ![Топ языков nrkfo](https://github-readme-stats-rho-livid-78.vercel.app/api/top-langs/?username=nrkfo&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-stats-rho-livid-78.vercel.app/api/streak?username=nrkfo&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nrkfo&theme=dark)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nrkfo&theme=onedark&no-frame=true)
 
